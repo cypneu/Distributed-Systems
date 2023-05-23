@@ -1,0 +1,152 @@
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['google', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['amazon', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['amazon', 'ADVERTISEMENT', 'Please buy our product!']
+
+Notification frequency: 3 s.
+Notification type: ADVERTISEMENT
+Content: ['amazon', 'ADVERTISEMENT', 'Please buy our product!']
+

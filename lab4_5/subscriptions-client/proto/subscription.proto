@@ -1,0 +1,26 @@
+syntax = "proto3";
+package subscription;
+
+service Subscription {
+    rpc Subscribe (stream SubscriptionRequest) returns (stream Notification);
+}
+
+message SubscriptionRequest {
+    string name = 1;
+    uint32 notification_frequency = 2;
+}
+
+message Notification {
+    uint32 frequency = 1;
+    
+    enum NotificationType {
+        ADVERTISEMENT = 0;
+        INFORMATION = 1;
+    }
+    NotificationType notification_type = 2;
+    
+    message Content {
+        repeated string body = 1;
+    }
+    Content content = 4;
+}
