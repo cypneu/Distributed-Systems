@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+  ray-head:
+    build:
+      dockerfile: Dockerfile
+    ports:
+      - 8265:8265
+      - 10001:10001
+    command: pipenv run ray start --head --dashboard-host=0.0.0.0 --block
+    shm_size: 10g
+  ray-worker:
+    depends_on:
+      - ray-head
+    build:
+      dockerfile: Dockerfile
+    command: pipenv run ray start --address=ray-head:6379 --block
+    shm_size: 10g
